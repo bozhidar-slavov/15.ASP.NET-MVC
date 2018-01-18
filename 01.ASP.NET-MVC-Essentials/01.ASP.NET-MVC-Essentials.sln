@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCalculator", "WebCalculator\WebCalculator.csproj", "{028CDBFE-AABF-448E-B00F-18297D9068AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InformationalApp", "InformationalApp\InformationalApp.csproj", "{14C0BB85-A8E7-45C5-B99C-F0A104CFB72C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomRoute", "CustomRoute\CustomRoute.csproj", "{2076F46E-4A3A-4EA1-A124-303BD4140359}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{028CDBFE-AABF-448E-B00F-18297D9068AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{028CDBFE-AABF-448E-B00F-18297D9068AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{028CDBFE-AABF-448E-B00F-18297D9068AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{028CDBFE-AABF-448E-B00F-18297D9068AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14C0BB85-A8E7-45C5-B99C-F0A104CFB72C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14C0BB85-A8E7-45C5-B99C-F0A104CFB72C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14C0BB85-A8E7-45C5-B99C-F0A104CFB72C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14C0BB85-A8E7-45C5-B99C-F0A104CFB72C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2076F46E-4A3A-4EA1-A124-303BD4140359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2076F46E-4A3A-4EA1-A124-303BD4140359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2076F46E-4A3A-4EA1-A124-303BD4140359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2076F46E-4A3A-4EA1-A124-303BD4140359}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
